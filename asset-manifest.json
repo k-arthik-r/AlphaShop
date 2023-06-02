@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Alphashop/static/css/main.4997257e.css",
+    "main.js": "/Alphashop/static/js/main.f3aa434d.js",
+    "static/js/787.72edbe6b.chunk.js": "/Alphashop/static/js/787.72edbe6b.chunk.js",
+    "static/media/bigbasket.jpeg": "/Alphashop/static/media/bigbasket.52e427a7061b58d51238.jpeg",
+    "static/media/noise.jpeg": "/Alphashop/static/media/noise.43a12cca4b723b122387.jpeg",
+    "static/media/uber.jpeg": "/Alphashop/static/media/uber.a00690a1e6e9a1435274.jpeg",
+    "static/media/bms.jpeg": "/Alphashop/static/media/bms.18ce0aab1506cc4840bf.jpeg",
+    "static/media/zomato.jpeg": "/Alphashop/static/media/zomato.d1f73eb87792f8abc134.jpeg",
+    "index.html": "/Alphashop/index.html",
+    "main.4997257e.css.map": "/Alphashop/static/css/main.4997257e.css.map",
+    "main.f3aa434d.js.map": "/Alphashop/static/js/main.f3aa434d.js.map",
+    "787.72edbe6b.chunk.js.map": "/Alphashop/static/js/787.72edbe6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4997257e.css",
+    "static/js/main.f3aa434d.js"
+  ]
+}
