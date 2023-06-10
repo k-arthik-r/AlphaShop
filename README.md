@@ -24,7 +24,7 @@ A Simple Desktop Responsive only, Static Site, With only Frontend Development al
 * Its Just FrontEnd and doest not compiled with any kind of BackEnd or database.
 * All the data used as the part of the site are Static and doesnt change Dynamically with time.
 * The default username and password for the site is: Username: karthik | Password: admin1234 which is constant.
-* This is a part of the entire project developed as one of the duplet and you can see the other site [Here](https://github.com/k-arthik-r/AlphaShop)
+* This is a part of the entire project developed as one of the duplet and you can see the other site [Here](https://github.com/k-arthik-r/Alpha)
  
  -----------------------------
  
