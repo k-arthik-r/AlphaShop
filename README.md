@@ -1,4 +1,4 @@
-<h1 align='center'>Alpha</h1>
+<h1 align='center'>AlphaShop</h1>
 
 <div align='center'>
   <a><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a> &nbsp;
