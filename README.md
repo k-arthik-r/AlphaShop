@@ -18,13 +18,13 @@ A Simple Desktop Responsive only, Static Site, With only Frontend Development al
 -----------------------------
 ## Key Notes
 * This is not a fully functional site because its just contitute with Front End.
-* its Developed only as Desktop Responsive and using it in any other Screen may result in crashing of the site.
+* Its Developed only as Desktop Responsive and using it in any other Screen may result in crashing of the site.
 * This is Just a replica/ prototype of Actual User Interface of our project and does not include any Working Mechanism with it.
-* it is Constitute with some amount of Javascript code Required only for the Demo to be shown in front of Judges.
-* its Just FrontEnd and doest not compiled with any kind of BackEnd or database.
+* It is Constitute with some amount of Javascript code Required only for the Demo to be shown in front of Judges.
+* Its Just FrontEnd and doest not compiled with any kind of BackEnd or database.
 * All the data used as the part of the site are Static and doesnt change Dynamically with time.
-* the default username and password for the site is: Username: karthik | Password: admin1234 which is constant.
-* this is a part of the entire project developed as one of the duplet and you can see the other site [Here](https://k-arthik-r.github.io/Alpha)
+* The default username and password for the site is: Username: karthik | Password: admin1234 which is constant.
+* This is a part of the entire project developed as one of the duplet and you can see the other site [Here](https://github.com/k-arthik-r/AlphaShop)
  
  -----------------------------
  
