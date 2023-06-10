@@ -8,7 +8,7 @@
 
 ------------------------
 
-
+![React](https://github.com/k-arthik-r/AlphaShop/assets/111432615/3dee311f-bf9f-476b-8c2d-ae802df9f870)
 
 ---------------------------
 
@@ -24,7 +24,7 @@ A Simple Desktop Responsive only, Static Site, With only Frontend Development al
 * its Just FrontEnd and doest not compiled with any kind of BackEnd or database.
 * All the data used as the part of the site are Static and doesnt change Dynamically with time.
 * the default username and password for the site is: Username: karthik | Password: admin1234 which is constant.
-* this is a part of the entire project developed as one of the duplet and you can see the other site [Here](https://k-arthik-r.github.io/AlphaShop)
+* this is a part of the entire project developed as one of the duplet and you can see the other site [Here](https://k-arthik-r.github.io/Alpha)
  
  -----------------------------
  
