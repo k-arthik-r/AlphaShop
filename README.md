@@ -13,11 +13,11 @@
 ---------------------------
 
 ## Description
-A Simple Desktop Responsive only, Static Site, With only Frontend Development along with some Example Javascript Codes Developed using React and Javascript for Just a Demo Presentation for Ideathon-2K23 Organized by CII India.
+Presenting a desktop responsive, static desktop site developed for Ideathon-2K23 Organized by CII India. Demonstrates frontend expertise with interactive JavaScript codes using React, showcasing dynamic UI and seamless user experience. No backend functionality, solely focused on frontend development.
 
 -----------------------------
 ## Key Notes
-* This is not a fully functional site because its just contitute with Front End.
+* This is not a fully 2functional site because its just contitute with Front End.
 * Its Developed only as Desktop Responsive and using it in any other Screen may result in crashing of the site.
 * This is Just a replica/ prototype of Actual User Interface of our project and does not include any Working Mechanism with it.
 * It is Constitute with some amount of Javascript code Required only for the Demo to be shown in front of Judges.
