@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AlphaShop/static/css/main.4997257e.css",
-    "main.js": "/AlphaShop/static/js/main.3f798683.js",
+    "main.js": "/AlphaShop/static/js/main.cdd35940.js",
     "static/js/787.3d464773.chunk.js": "/AlphaShop/static/js/787.3d464773.chunk.js",
     "static/media/bigbasket.jpeg": "/AlphaShop/static/media/bigbasket.52e427a7061b58d51238.jpeg",
     "static/media/noise.jpeg": "/AlphaShop/static/media/noise.43a12cca4b723b122387.jpeg",
@@ -10,11 +10,11 @@
     "static/media/zomato.jpeg": "/AlphaShop/static/media/zomato.d1f73eb87792f8abc134.jpeg",
     "index.html": "/AlphaShop/index.html",
     "main.4997257e.css.map": "/AlphaShop/static/css/main.4997257e.css.map",
-    "main.3f798683.js.map": "/AlphaShop/static/js/main.3f798683.js.map",
+    "main.cdd35940.js.map": "/AlphaShop/static/js/main.cdd35940.js.map",
     "787.3d464773.chunk.js.map": "/AlphaShop/static/js/787.3d464773.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4997257e.css",
-    "static/js/main.3f798683.js"
+    "static/js/main.cdd35940.js"
   ]
 }
