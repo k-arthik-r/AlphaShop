@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AlphaShop/static/css/main.fc9ced15.css",
+    "main.js": "/AlphaShop/static/js/main.e51f96b1.js",
+    "static/js/787.3d464773.chunk.js": "/AlphaShop/static/js/787.3d464773.chunk.js",
+    "static/media/V6.png": "/AlphaShop/static/media/V6.8ba1b04b39c4854d68f5.png",
+    "static/media/V8.png": "/AlphaShop/static/media/V8.529d5193dff9c45a6f4f.png",
+    "static/media/bigbasket.jpeg": "/AlphaShop/static/media/bigbasket.52e427a7061b58d51238.jpeg",
+    "static/media/V4.png": "/AlphaShop/static/media/V4.2a7796912b313a3f2111.png",
+    "static/media/V5.png": "/AlphaShop/static/media/V5.24228067f5385ded6428.png",
+    "static/media/V7.png": "/AlphaShop/static/media/V7.df9ff309060d3aac80c7.png",
+    "static/media/noise.jpeg": "/AlphaShop/static/media/noise.43a12cca4b723b122387.jpeg",
+    "static/media/V3.png": "/AlphaShop/static/media/V3.c7b8572b62d33722311c.png",
+    "static/media/uber.jpeg": "/AlphaShop/static/media/uber.a00690a1e6e9a1435274.jpeg",
+    "static/media/bms.jpeg": "/AlphaShop/static/media/bms.18ce0aab1506cc4840bf.jpeg",
+    "static/media/zomato.jpeg": "/AlphaShop/static/media/zomato.d1f73eb87792f8abc134.jpeg",
+    "static/media/V1.png": "/AlphaShop/static/media/V1.0d10764b224ea4669323.png",
+    "index.html": "/AlphaShop/index.html",
+    "main.fc9ced15.css.map": "/AlphaShop/static/css/main.fc9ced15.css.map",
+    "main.e51f96b1.js.map": "/AlphaShop/static/js/main.e51f96b1.js.map",
+    "787.3d464773.chunk.js.map": "/AlphaShop/static/js/787.3d464773.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc9ced15.css",
+    "static/js/main.e51f96b1.js"
+  ]
+}
