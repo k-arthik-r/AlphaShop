@@ -1,26 +1,24 @@
-/* eslint-disable no-unused-vars */
-
 import{
-    ajio,
-    amazon,
-    bigbasket,
-    boat,
-    croma,
-    dominos,
-    flipkart,
-    levi,
-    lifestyle,
-    max,
-    meesho,
-    noise,
-    nykaa,
-    ola,
-    sugar,
-    swiggy,
-    tata,
-    zomato,
-    bms,
-    uber,
+    // ajio,
+    // amazon,
+    // bigbasket,
+    // boat,
+    // croma,
+    // dominos,
+    // flipkart,
+    // levi,
+    // lifestyle,
+    // max,
+    // meesho,
+    // noise,
+    // nykaa,
+    // ola,
+    // sugar,
+    // swiggy,
+    // tata,
+    // zomato,
+    // bms,
+    // uber,
     V1,
     V2,
     V3,
@@ -208,5 +206,3 @@ const Coupons = [
 
 
 export { Coupons };
-
-/* eslint-enable no-unused-vars */
