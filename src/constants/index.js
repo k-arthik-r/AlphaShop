@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+
 import{
     ajio,
     amazon,
@@ -206,3 +208,5 @@ const Coupons = [
 
 
 export { Coupons };
+
+/* eslint-enable no-unused-vars */
